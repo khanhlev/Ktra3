@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="Zalo">\@khanhlevan</string>
+
+    <string name="action_home">Home</string>
+    <string name="action_list">List</string>
+    <string name="action_my_page">My Page</string>
+</resources>
