@@ -96,16 +96,15 @@
         android:textColor="#F33C3C"/>
 
 
-
     <Button
-        android:layout_marginTop="80dp"
-        android:text="Thực hiện tính"
-        android:backgroundTint="@color/gradStart"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@id/edtketqua"
-        android:id="@+id/btbtinh"
+        android:id="@+id/btntinh"
         android:layout_width="200dp"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edtketqua"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:backgroundTint="@color/gradStart"
+        android:text="Thực hiện tính" />
 
 
 </RelativeLayout>
